@@ -1,4 +1,6 @@
 # Log4Shell sample vulnerable application (CVE-2021-44228)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsatoshiav0cad0%2Flog4shell-vulnerable-app.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsatoshiav0cad0%2Flog4shell-vulnerable-app?ref=badge_shield)
+
 
 This repository contains a Spring Boot web application vulnerable to CVE-2021-44228, nicknamed [Log4Shell](https://www.lunasec.io/docs/blog/log4j-zero-day/).
 
@@ -76,3 +78,7 @@ https://mbechler.github.io/2021/12/10/PSA_Log4Shell_JNDI_Injection/
 
 [@christophetd](https://twitter.com/christophetd)
 [@rayhan0x01](https://twitter.com/rayhan0x01)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsatoshiav0cad0%2Flog4shell-vulnerable-app.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsatoshiav0cad0%2Flog4shell-vulnerable-app?ref=badge_large)
